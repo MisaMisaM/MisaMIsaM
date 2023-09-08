@@ -6,3 +6,4 @@
 
 - 💻 I just graduated Full Stack coding bootcamp in Tokyo.
 - ✈️ I love traveling.
+- 👩‍💻 I love coding.
