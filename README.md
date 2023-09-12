@@ -8,3 +8,4 @@
 - ✈️ I love traveling.
 - 👩‍💻 I love coding.
 - ☕️ I love coffee.
+- 🍜 I love ramen.
