@@ -6,7 +6,7 @@ Studied coding at Le wagon Tokyo.
 
 
 - 💻 I just graduated Full Stack coding bootcamp in Tokyo.
-- ✈️ I love traveling.
+- ✈️ I love traveling/Airplane.
 - 👩‍💻 I love coding.
 - ☕️ I love cafe latte
 - 🍜 I love ramen.
