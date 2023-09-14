@@ -7,5 +7,5 @@
 - 💻 I just graduated Full Stack coding bootcamp in Tokyo.
 - ✈️ I love traveling.
 - 👩‍💻 I love coding.
-- ☕️ I love coffee.
+- ☕️ I love cafe latte
 - 🍜 I love ramen.
