@@ -6,4 +6,4 @@
 - 💻 I just graduated Full Stack coding bootcamp in Tokyo.
 - ✈️ I love traveling/Airplane.
 - 👩‍💻 I love coding.
-- ☕️ 
+- ☕️ latte lover
