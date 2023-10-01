@@ -7,4 +7,4 @@
 - 🌏I love traveling/Airplane. 
 - 👩‍💻 I love coding.
 - ☕️ coffee lover
-- 🐶 dog lover
+- ❤️ dog lover
