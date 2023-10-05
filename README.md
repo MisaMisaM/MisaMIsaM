@@ -4,7 +4,6 @@
  <h1>About me</h1>
 
 - 💻 I just graduated Full Stack coding bootcamp in Tokyo. looking job in tokyo and usa
-
 - 🌏I love traveling/Airplane. 
 - 👩‍💻 I love coding.
 - ☕️ coffee lover
