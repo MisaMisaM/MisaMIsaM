@@ -8,4 +8,4 @@
 - 👩‍💻 I love coding.
 - ☕️ coffee lover
 - ❤️ dog lover　🐶
-- 🎧　DJ in TOKYO
+
