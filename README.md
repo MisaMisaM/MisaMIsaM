@@ -7,3 +7,10 @@ Hi 😃　I'm Misa
 - 🌏I love traveling/Airplane. 
 - 👩‍💻 I love coding.
 - ☕️ coffee lover
+
+  
+Ruby
+SQL
+JavaScript
+Ruby on Rails
+Heroku
