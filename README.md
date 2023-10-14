@@ -15,4 +15,7 @@ JavaScript
 Ruby on Rails
 Heroku
 CSS
+Figma
+Git
+Github
 
