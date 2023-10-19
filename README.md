@@ -8,7 +8,7 @@ Hi 😃　I'm Misa
 - 👩‍💻 I love coding.
 - ☕️ coffee lover
 
-  
+  <h2>
 Ruby
 SQL
 JavaScript
@@ -19,4 +19,4 @@ HTML
 Figma
 Git
 Github
-
+</h2>
